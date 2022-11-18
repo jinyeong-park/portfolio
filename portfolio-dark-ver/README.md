@@ -33,7 +33,6 @@ Form Modal to create a new collection:
   - Front-end: ReactReact
   - CSS framework: React-bootstrap 
   - CSS animations library: Animate.css
-  - 
 
 
 
@@ -84,16 +83,6 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
-
-
-### Installing Dependencies
-
-From within the root directory:
-
-```sh
-npm install -g webpack
-npm install faker styled-react-modal styled-components
-```
 
 
 
