@@ -1,6 +1,6 @@
 # Portfolio
 
-# More-Places-Module
+
 
 This is the interface for portfolio application.
 
@@ -25,7 +25,28 @@ Form Modal to create a new collection:
   - Home
   - Skills 
   - Projects 
-  - Contact
+  - Contact Us
+  - Newsletter
+
+
+## Tech stack
+  - React
+  - bootstrap 
+  -  
+  - 
+
+## Requirements
+
+- Node 18.12.1
+- npm 8.19.2
+
+
+## Official docs
+  - https://nodejs.org/en/download/
+  - https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+  - https://create-react-app.dev/docs/getting-started
+  - bootstrap 
+  - 
 
 
 
