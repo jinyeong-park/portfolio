@@ -42,9 +42,9 @@ Form Modal to create a new collection:
 
 
 ## Official docs
-  - https://nodejs.org/en/download/
-  - https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
-  - https://create-react-app.dev/docs/getting-started
+  - Download nodejs and npm https://nodejs.org/en/download/
+  - Downloading and installing Node.js and npm https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+  - create-react-app https://create-react-app.dev/docs/getting-started
   - bootstrap 
   - 
 
