@@ -1,16 +1,64 @@
-# Personal Portfolio Website in React
+# Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png">
 
-Built using:
+This is the interface for portfolio application.
 
-- Front-end library: React
-- CSS framework: React-bootstrap
-- CSS animations library: Animate.css
+## Demo
+Scrolling through sections:
 
-In the /personal-portfolio, you can run:
+<!-- <p align="center">
+<img src="https://media.giphy.com/media/R7IIrzGecqGO2aEZTE/giphy.gif" width="70%"></p>
+
+Form Modal for favoriting:
+
+<p align="center">
+<img src="https://media.giphy.com/media/RKmLYjKhsMq3BbD3UK/giphy.gif" width="70%"></p>
+
+Form Modal to create a new collection:
+
+<p align="center">
+<img src="https://media.giphy.com/media/ldAnZGhJzFQzW43Ovh/giphy.gif" width="70%"></p> -->
+
+## Related Modules
+
+  - Home
+  - Skills 
+  - Projects 
+  - Contact Us
+  - Newsletter
+
+
+## Tech stack
+  - Front-end: ReactReact
+  - CSS framework: React-bootstrap 
+  - CSS animations library: Animate.css
+  - 
+
+
+
+
+## Official docs
+  - Download nodejs and npm https://nodejs.org/en/download/
+  - How to install Node.js and npm https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+  - create-react-app https://create-react-app.dev/docs/getting-started
+  - Install React Bootstrap https://react-bootstrap.github.io/getting-started/introduction/
+  - Navigation bar https://react-bootstrap.github.io/components/navbar/
+  - Importing Compiled CSS https://getbootstrap.com/docs/4.0/getting-started/webpack/
+
+
+
+## Requirements
+
+- Node 18.12.1
+- npm 8.19.2
+
+
+## Development
+From within the root directory:
+```sh
+npm
+```
 
 ### `npm start`
 
@@ -34,3 +82,18 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+
+
+
+### Installing Dependencies
+
+From within the root directory:
+
+```sh
+npm install -g webpack
+npm install faker styled-react-modal styled-components
+```
+
+
+
