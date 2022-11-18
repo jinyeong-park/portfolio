@@ -1,10 +1,64 @@
-# Getting Started with Create React App
+# Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+This is the interface for portfolio application.
+
+## Demo
+Scrolling through sections:
+
+<!-- <p align="center">
+<img src="https://media.giphy.com/media/R7IIrzGecqGO2aEZTE/giphy.gif" width="70%"></p>
+
+Form Modal for favoriting:
+
+<p align="center">
+<img src="https://media.giphy.com/media/RKmLYjKhsMq3BbD3UK/giphy.gif" width="70%"></p>
+
+Form Modal to create a new collection:
+
+<p align="center">
+<img src="https://media.giphy.com/media/ldAnZGhJzFQzW43Ovh/giphy.gif" width="70%"></p> -->
+
+## Related Modules
+
+  - Home
+  - Skills 
+  - Projects 
+  - Contact Us
+  - Newsletter
+
+
+## Tech stack
+  - Front-end: ReactReact
+  - CSS framework: React-bootstrap 
+  - CSS animations library: Animate.css
+  - 
+
+
+
+
+## Official docs
+  - Download nodejs and npm https://nodejs.org/en/download/
+  - How to install Node.js and npm https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+  - create-react-app https://create-react-app.dev/docs/getting-started
+  - Install React Bootstrap https://react-bootstrap.github.io/getting-started/introduction/
+  - Navigation bar https://react-bootstrap.github.io/components/navbar/
+  - Importing Compiled CSS https://getbootstrap.com/docs/4.0/getting-started/webpack/
+
+
+
+## Requirements
+
+- Node 18.12.1
+- npm 8.19.2
+
+
+## Development
+From within the root directory:
+```sh
+npm
+```
 
 ### `npm start`
 
@@ -29,42 +83,17 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Installing Dependencies
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+From within the root directory:
 
-## Learn More
+```sh
+npm install -g webpack
+npm install faker styled-react-modal styled-components
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
