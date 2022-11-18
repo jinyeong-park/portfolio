@@ -43,7 +43,7 @@ Form Modal to create a new collection:
 
 ## Official docs
   - Download nodejs and npm https://nodejs.org/en/download/
-  - Downloading and installing Node.js and npm https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+  - How to install Node.js and npm https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
   - create-react-app https://create-react-app.dev/docs/getting-started
   - bootstrap 
   - 
