@@ -47,6 +47,8 @@ Form Modal to create a new collection:
 
   - Styling/CSS
   - Google Font - Roboto https://fonts.google.com/specimen/Roboto
+  - Google Font - Roboto https://fonts.google.com/specimen/Roboto
+
 
 
 
