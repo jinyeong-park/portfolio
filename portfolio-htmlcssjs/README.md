@@ -45,7 +45,7 @@ Form Modal to create a new collection:
   - Styling/CSS
   - Google Font - Roboto https://fonts.google.com/specimen/Roboto
   - Icons - Font awesome cdn ver 5.15.4 https://cdnjs.com/libraries/font-awesome
-  - Font awesome icons https://fontawesome.com/search
+  - Font awesome icons-home, user, beiefcase, newspaper, envelope-open  https://fontawesome.com/search
 
 
 

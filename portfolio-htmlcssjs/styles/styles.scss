@@ -81,3 +81,38 @@ section {
     background-color: yellow;
 }
 
+/* right controls box */
+.controls {
+    /* background-color: red; */
+    position: fixed;
+    z-index: 10;
+    top: 50%;
+    right: 3%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transform: translateY(-50%);
+
+    .control {
+        padding: 1rem;
+        cursor: pointer;
+        background-color: var(--color-gray-4);
+        width: 55px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: .7rem 0;
+        box-shadow: bar(--box-shadow-1);
+        span {
+            font-size: 1.2rem;
+            color: var(--color-grey-2);
+            pointer-events: none;
+        }
+    }
+    
+}
+
+
+
