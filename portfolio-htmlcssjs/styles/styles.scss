@@ -8,6 +8,7 @@
 :root {
     --color-primary: #191d2b;
     --color-secondary: #27AE60;
+    --color-blue: #2c98f0;
     --color-white: #FFFFFF;
     --color-black: #000;
     --color-grey0: #f8f8f8;
@@ -59,31 +60,48 @@ section {
 
 .sec1 {
     // display: none;
-    transform: translate(0) scale(1);
-    background-color: white;
+    transform: translateY(0) scale(1);
+    background-color: yellow;
 }
 
 .sec2 {
     // display: none;
-    transform: translate(0) scale(1);
+    transform: translateY(0) scale(1);
     background-color: #6c7983;
 }
 
 .sec3 {
     // display: none;
-    transform: translate(0) scale(1);
+    transform: translateY(0) scale(1);
     background-color: greenyellow;
 }
 
 .sec4 {
     // display: none;
-    transform: translate(0) scale(1);
-    background-color: #2a2e35;
+    transform: translateY(0) scale(1);
+    background-color: white;
+}
+
+.sec5 {
+    display: none;
+    transform: translateY(0) scale(1);
+}
+
+.active {
+    display: block;
+    animation: scaleAnim 1s ease-in-out;
+    @keyframes scaleAnim {
+        0%{
+            transform: translateY(-100%) scale(0)
+        }
+        100%{
+            transform: translateY(0) scale(1)
+        }
+    }
 }
 
 /* right controls box */
 .controls {
-    /* background-color: red; */
     position: fixed;
     z-index: 10;
     top: 50%;
@@ -94,11 +112,12 @@ section {
     justify-content: center;
     transform: translateY(-50%);
     .active-btn {
-        background-color: var(--color-secondary) !important;
+        background-color: var(--color-blue) !important;
         transition: all .4s ease-in-out;
          // icons
         span {
             color: var(--color-white) !important;
+
         }
 
     }
