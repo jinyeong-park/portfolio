@@ -43,6 +43,7 @@ Form Modal to create a new collection:
   - create-react-app https://create-react-app.dev/docs/getting-started
 
   - Styling/CSS
+  - Live sass compiler extension https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
   - Google Font - Roboto https://fonts.google.com/specimen/Roboto
   - Icons - Font awesome cdn ver 5.15.4 https://cdnjs.com/libraries/font-awesome
   - Font awesome icons-home, user, beiefcase, newspaper, envelope-open  https://fontawesome.com/search
