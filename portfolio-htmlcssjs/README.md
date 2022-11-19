@@ -41,13 +41,11 @@ Form Modal to create a new collection:
   - Download nodejs and npm https://nodejs.org/en/download/
   - How to install Node.js and npm https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
   - create-react-app https://create-react-app.dev/docs/getting-started
-  - Install React Bootstrap https://react-bootstrap.github.io/getting-started/introduction/
-  - Navigation bar https://react-bootstrap.github.io/components/navbar/
-  - Importing Compiled CSS https://getbootstrap.com/docs/4.0/getting-started/webpack/
 
   - Styling/CSS
   - Google Font - Roboto https://fonts.google.com/specimen/Roboto
-  - Google Font - Roboto https://fonts.google.com/specimen/Roboto
+  - Icons - Font awesome cdn ver 5.15.4 https://cdnjs.com/libraries/font-awesome
+  - Font awesome icons https://fontawesome.com/search
 
 
 
