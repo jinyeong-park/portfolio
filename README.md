@@ -1,4 +1,4 @@
-# Portfolio
+# Responsive Portfolio
 
 
 
@@ -30,9 +30,10 @@ Form Modal to create a new collection:
 
 
 ## Tech stack
-  - Front-end: HTML/CSS/JS
-  - CSS framework: React-bootstrap 
-  - CSS animations library: Animate.css
+  - React.js, Next.js
+  - CSS framework: Tailwind CSS
+  - CSS animations library: Framer Motion
+  - Sanity.io
 
 
 
@@ -40,16 +41,12 @@ Form Modal to create a new collection:
 ## Official docs
   - Download nodejs and npm https://nodejs.org/en/download/
   - How to install Node.js and npm https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+  - npx create-next-app@latest --ts https://nextjs.org/docs/basic-features/typescript
+  - Tailwindcss https://tailwindcss.com/docs/installation
   - create-react-app https://create-react-app.dev/docs/getting-started
-
-  - Styling/CSS
-  - Live sass compiler extension https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
-  - Google Font - Roboto https://fonts.google.com/specimen/Roboto
-  - Icons - Font awesome cdn ver 5.15.4 https://cdnjs.com/libraries/font-awesome
-  - Font awesome icons-home, user, beiefcase, newspaper, envelope-open  https://fontawesome.com/search
-  - CSS clip-path generator https://bennettfeely.com/clippy/
-
-
+  - Install React Bootstrap https://react-bootstrap.github.io/getting-started/introduction/
+  - Navigation bar https://react-bootstrap.github.io/components/navbar/
+  - Importing Compiled CSS https://getbootstrap.com/docs/4.0/getting-started/webpack/
 
 
 
