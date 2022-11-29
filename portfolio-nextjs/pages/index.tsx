@@ -4,6 +4,7 @@ import styles from '../styles/Home.module.css'
 import Header from "../components/Header";
 import Hero from "../components/Hero";
 
+
 const Home: NextPage = () => {
   return (
     <div className="bg-[rgb(36,36,36)] text-white h-screen">
@@ -15,7 +16,9 @@ const Home: NextPage = () => {
       <Header />
 
       {/* - Hero */}
-      <Hero />
+      <section id="hero">
+        <Hero />
+      </section>
       
       {/* - About */}
 
