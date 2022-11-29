@@ -10,8 +10,6 @@ const Home: NextPage = () => {
         <title>Jenny Park</title>
       </Head>
 
-      <h1 className="p-10 text-red-500">Let's build amazing project</h1>
-
       {/* - Header */}
       <Header />
 
