@@ -24,7 +24,7 @@ function About({}: Props) {
         md:rounded-lg md:w-64 md:h-95 xl:w-[400px] xl:h-[500px]"
         />
         <div className="space-y-10 px-9 md:px-10">
-            <h4 className="text-4xl fond-semibold">
+            <h4 className="italic text-3xl fond-semibold">
                 Here is a {""} <span className="underline decoration-[#F7AB0A]/50">little</span> background
             </h4>
             <p className="text-sm">

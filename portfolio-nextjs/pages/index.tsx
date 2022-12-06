@@ -6,6 +6,7 @@ import Header from "../components/Header";
 import Hero from "../components/Hero";
 import Projects from "../components/Projects";
 import Skills from "../components/Skills";
+import Contact from "../components/Contact";
 
 
 const Home: NextPage = () => {
@@ -44,6 +45,9 @@ const Home: NextPage = () => {
       </section>
       
       {/* - Contact Us */}
+      <section id="contact" className="snap-center">
+        <Contact />
+      </section>
     </div>
   )
 }
