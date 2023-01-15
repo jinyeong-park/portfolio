@@ -4,6 +4,9 @@
 
 This is the interface for portfolio application.
 
+<img width="1353" alt="portforlio-animation" src="https://user-images.githubusercontent.com/39134261/212519805-cba3a21a-576c-40cf-b75c-7f34cb2235f9.png">
+
+
 ## Demo
 Scrolling through sections:
 
